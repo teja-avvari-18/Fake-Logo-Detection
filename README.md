@@ -8,23 +8,23 @@ This Fake Logo Detection model helps in detecting the fake and original logos of
   <strong>Fake Logo Detection Website</strong>
 </div>
 
-![](User Uploading Logo For Checking.png)
+![](UserUploadingLogoForChecking.png)
 <div align="center">
   <strong>User Uploading Logo For Checking</strong>
 </div>
 
-![](Website.png)
+![](ModelDisplayingTheResult.png)
 <div align="center">
-  <strong>Fake Logo Detection Website</strong>
+  <strong>Model Displaying The Result</strong>
 </div>
 
-![](Website.png)
+![](ModelDetectingFakeLogoasFake.png)
 <div align="center">
-  <strong>Fake Logo Detection Website</strong>
+  <strong>Model Detecting Fake Logo as Fake</strong>
 </div>
 
-![](Website.png)
+![](ModelDetectingOriginalLogoasOriginal.png)
 <div align="center">
-  <strong>Fake Logo Detection Website</strong>
+  <strong>Model Detecting Original Logo as Original</strong>
 </div>
 
