@@ -3,7 +3,7 @@ This Fake Logo Detection model helps in detecting the fake and original logos of
 
 "Check the Master Branch for the project files."
 
-![Fake Logo Detection Website](Website.png "Fake Logo Detection Website")
+![](Website.png)
 <div align="center">
   <strong>Fake Logo Detection Website</strong>
 </div>
